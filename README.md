@@ -31,7 +31,7 @@ Our Blackjack Game project is built using the following technologies:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> C# with ASP.NET for server-side logic.T
 
 ## Collaborators
-This project is a collaborative effort between three colleagues:
+This project is a collaborative effort between two colleagues:
 - [Boscan Tibieriu](https://github.com/tbtiberiu)
 - [Deaconu Bogdan](https://github.com/BogdanDeaconu)
 
